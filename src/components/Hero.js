@@ -1,5 +1,5 @@
 import './Hero.css';
-
+import stoneBanner from "../images/stone-banner.jpg"
 function Hero() {
   return (
     <section className="hero">
@@ -9,7 +9,7 @@ function Hero() {
         <a href="#about" className="cta-btn">Learn More</a>
       </div>
       <div className="hero-image">
-        <img src="/images/stone-banner.jpg" alt="Stone Banner" />
+        <img src={stoneBanner} alt="Stone Banner" />
       </div>
     </section>
   );

@@ -1,4 +1,5 @@
 import './About.css';
+import aboutStone from '../images/about-stone.avif';
 
 function About() {
   return (
@@ -11,7 +12,7 @@ function About() {
         </p>
       </div>
       <div className="about-image-container">
-        <img src="/images/about-stone.avif" alt="About Stonepedia" />
+        <img src={aboutStone} alt="About Stonepedia" />
       </div>
     </section>
   );

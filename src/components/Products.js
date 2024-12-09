@@ -1,10 +1,13 @@
 import './Products.css';
+import marble from '../images/marble.avif';
+import granite from '../images/granite.avif';
+import sandstone from '../images/sandstone.avif';
 
 function Products() {
   const categories = [
-    { name: "Marble", img: "/images/marble.avif" },
-    { name: "Granite", img: "/images/granite.avif" },
-    { name: "Sandstone", img: "/images/sandstone.avif" }
+    { name: "Marble", img: marble },
+    { name: "Granite", img: granite },
+    { name: "Sandstone", img: sandstone }
   ];
 
   return (

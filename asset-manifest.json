@@ -1,16 +1,21 @@
 {
   "files": {
     "main.css": "/stonepedia-homepage/static/css/main.f9fff763.css",
-    "main.js": "/stonepedia-homepage/static/js/main.5f195dcc.js",
+    "main.js": "/stonepedia-homepage/static/js/main.30e921ef.js",
     "static/js/488.fbd0e3bd.chunk.js": "/stonepedia-homepage/static/js/488.fbd0e3bd.chunk.js",
+    "static/media/sandstone.avif": "/stonepedia-homepage/static/media/sandstone.5f08d0661f5f212b694d.avif",
+    "static/media/marble.avif": "/stonepedia-homepage/static/media/marble.88a36cdf8fba4cf5e2fa.avif",
+    "static/media/about-stone.avif": "/stonepedia-homepage/static/media/about-stone.a8e451328164995731f2.avif",
+    "static/media/stone-banner.jpg": "/stonepedia-homepage/static/media/stone-banner.836aba13fe79565e6587.jpg",
+    "static/media/granite.avif": "/stonepedia-homepage/static/media/granite.485074c39969ce531d01.avif",
     "static/media/stone-banner2.avif": "/stonepedia-homepage/static/media/stone-banner2.03a003630e8f36f9c609.avif",
     "index.html": "/stonepedia-homepage/index.html",
     "main.f9fff763.css.map": "/stonepedia-homepage/static/css/main.f9fff763.css.map",
-    "main.5f195dcc.js.map": "/stonepedia-homepage/static/js/main.5f195dcc.js.map",
+    "main.30e921ef.js.map": "/stonepedia-homepage/static/js/main.30e921ef.js.map",
     "488.fbd0e3bd.chunk.js.map": "/stonepedia-homepage/static/js/488.fbd0e3bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9fff763.css",
-    "static/js/main.5f195dcc.js"
+    "static/js/main.30e921ef.js"
   ]
 }
